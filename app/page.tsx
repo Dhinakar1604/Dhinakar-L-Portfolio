@@ -87,7 +87,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail className="h-5 w-5 text-primary" />
-                  <span>Dhinakar404@gmail.com</span>
+                  <span>dhinakar404@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Linkedin className="h-5 w-5 text-primary" />
@@ -304,7 +304,7 @@ export default function Home() {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
-                    <p className="font-medium">Dhinakar404@gmail.com</p>
+                    <p className="font-medium">dhinakar404@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
@@ -337,7 +337,7 @@ export default function Home() {
                     <Linkedin className="h-5 w-5 text-primary" />
                   </Link>
                   <Link
-                    href="mailto:Dhinakar404@gmail.com"
+                    href="mailto:dhinakar404@gmail.com"
                     className="bg-primary/10 p-3 rounded-full hover:bg-primary/20 transition-colors"
                   >
                     <Mail className="h-5 w-5 text-primary" />
@@ -404,7 +404,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t py-8 bg-muted/40">
         <div className="container text-center">
-          <p className="text-muted-foreground">© {new Date().getFullYear()} Dhinakar L. All rights reserved.</p>
+          <p className="text-muted-foreground">© {new Date().getFullYear()} Dhinakar Lingappan. All rights reserved.</p>
         </div>
       </footer>
     </div>
