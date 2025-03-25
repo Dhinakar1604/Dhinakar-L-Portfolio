@@ -43,7 +43,7 @@ export default function Home() {
         {/* Hero Section */}
         <section className="py-20 md:py-32 flex flex-col items-center text-center">
           <div className="relative w-32 h-32 mb-8 rounded-full overflow-hidden border-4 border-primary">
-            <img src="/placeholder.svg?height=128&width=128" alt="Dhinakar L" className="object-cover" />
+            <img src="/dhinakar.jpg?height=128&width=128" alt="Dhinakar L" className="object-cover" />
           </div>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-4">Dhinakar L</h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl">
